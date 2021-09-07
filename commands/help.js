@@ -8,7 +8,7 @@ module.exports = {
             .setDescription('Fait !cmd pour voir les commandes du bot ou !new (oublie pas de lire les regles ;) ) ')
             .setColor('RANDOM')
             .setAuthor(message.author.username, message.author.avatarURL())
-            .setFooter(  'Nuclear-Dayz',` https://cdn.discordapp.com/avatars/822955483659894794/3a36e7870d95675d91715949b91203b1.png?size=4096 `)
+            .setFooter(  'Nuclear-Dayz',` https://cdn.discordapp.com/avatars/876417170555412490/78a085345aa4642963d56c6d475ffc23.png?size=4096 `)
             .setTimestamp()
          )
  
