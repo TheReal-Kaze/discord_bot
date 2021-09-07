@@ -5,7 +5,8 @@ module.exports = {
        run: message => {
         message.channel.send(new Discord.MessageEmbed()
         .setTitle('Salut voilà une explication du fonctionnement du DayZ:')
-        .setDescription(`Tu dois tout d'abord lire le lore pour comprendre l'histoire et apres cela en lisant les règles tu comprendra petit à petit les bases du serveur etc... le reste se fait en jouant ^^ Bonne  survie :p`)
+        .setDescription(`Tu dois tout d'abord lire le lore pour comprendre l'histoire et apres cela en lisant les règles tu comprendra petit à petit les bases du serveur etc... le reste se fait en jouant ^^
+ Bonne survie :p`)
         .setColor('RANDOM'))
  
  
