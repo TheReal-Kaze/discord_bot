@@ -7,7 +7,7 @@ module.exports = {
         
         .setDescription(`**__Nuclear-DayZ Surival__**
 
-        IP du serveur: **__51.255.220.26__**
+        IP du serveur: **__ip__**
         Port du serveur: **__27015__**`)
         
        
@@ -18,7 +18,7 @@ module.exports = {
          
  
         },
-     name: 'info'
+     name: 'ip'
      
      }
 
