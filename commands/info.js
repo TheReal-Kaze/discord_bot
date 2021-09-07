@@ -5,7 +5,7 @@ module.exports = {
        run: message => {
         message.channel.send(new Discord.MessageEmbed()
         
-        .setDescription(`**__Nuclear-DayZ Surival__**
+        .setDescription(`**__Nuclear-DayZ Survival__**
 
         IP du serveur: **__ip__**
         Port du serveur: **__27015__**`)
