@@ -77,7 +77,7 @@ client.on('message', message =>{
     .setAuthor(message.author.tag , message.author.displayAvatarURL())
     .setDescription(message.content)
     .setColor(message.member.roles.highest.color)
-    .setFooter("👍 Pour • 🤷‍♂️ Pas capter • 👎 Contre •")
+    .setFooter("👍 Pour • 🤷‍♂️ Idk • 👎 Contre •")
     .setTimestamp()
     )
     message.delete()
@@ -90,8 +90,8 @@ client.on('message', message =>{
 
   const statuses = [
     `Nuclear-DayZ Survie`,
-    `Dev : $echo Kaze#1069(Karim)`,
-    `Qu'est ce que tu regardes?`
+    `Dev : Kaze#1157`,
+    `Vote bg ;)`
     
   ]
 
