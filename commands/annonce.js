@@ -11,7 +11,7 @@ module.exports = {
         if(message.author.bot) return
 
         message.channel.send(new Discord.MessageEmbed()
-        .setAuthor("Nuclear-DayZ"  )
+        .setAuthor("Nuclear-DayZ" , ` https://cdn.discordapp.com/avatars/876417170555412490/78a085345aa4642963d56c6d475ffc23.png?size=4096 `  )
         .setTitle(titre)
         .setDescription(descri)
         .setColor(message.member.roles.highest.color)
